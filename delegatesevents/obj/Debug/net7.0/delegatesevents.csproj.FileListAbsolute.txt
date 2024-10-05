@@ -1,0 +1,15 @@
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/bin/Debug/net7.0/delegatesevents
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/bin/Debug/net7.0/delegatesevents.deps.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/bin/Debug/net7.0/delegatesevents.runtimeconfig.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/bin/Debug/net7.0/delegatesevents.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/bin/Debug/net7.0/delegatesevents.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/obj/Debug/net7.0/delegatesevents.csproj.AssemblyReference.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/obj/Debug/net7.0/delegatesevents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/obj/Debug/net7.0/delegatesevents.AssemblyInfoInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/obj/Debug/net7.0/delegatesevents.AssemblyInfo.cs
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/obj/Debug/net7.0/delegatesevents.csproj.CoreCompileInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/obj/Debug/net7.0/delegatesevents.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/obj/Debug/net7.0/refint/delegatesevents.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/obj/Debug/net7.0/delegatesevents.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/obj/Debug/net7.0/delegatesevents.genruntimeconfig.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/delegatesevents/obj/Debug/net7.0/ref/delegatesevents.dll

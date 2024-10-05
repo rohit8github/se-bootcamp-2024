@@ -1,0 +1,15 @@
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/obj/Debug/net7.0/reflectionmetadata.csproj.AssemblyReference.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/obj/Debug/net7.0/reflectionmetadata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/obj/Debug/net7.0/reflectionmetadata.AssemblyInfoInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/obj/Debug/net7.0/reflectionmetadata.AssemblyInfo.cs
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/obj/Debug/net7.0/reflectionmetadata.csproj.CoreCompileInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/bin/Debug/net7.0/reflectionmetadata
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/bin/Debug/net7.0/reflectionmetadata.deps.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/bin/Debug/net7.0/reflectionmetadata.runtimeconfig.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/bin/Debug/net7.0/reflectionmetadata.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/bin/Debug/net7.0/reflectionmetadata.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/obj/Debug/net7.0/reflectionmetadata.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/obj/Debug/net7.0/refint/reflectionmetadata.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/obj/Debug/net7.0/reflectionmetadata.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/obj/Debug/net7.0/reflectionmetadata.genruntimeconfig.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/reflectionmetadata/obj/Debug/net7.0/ref/reflectionmetadata.dll

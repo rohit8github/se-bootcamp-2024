@@ -1,0 +1,15 @@
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/bin/Debug/net7.0/multithreading_concurrency
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/bin/Debug/net7.0/multithreading_concurrency.deps.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/bin/Debug/net7.0/multithreading_concurrency.runtimeconfig.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/bin/Debug/net7.0/multithreading_concurrency.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/bin/Debug/net7.0/multithreading_concurrency.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/obj/Debug/net7.0/multithreading_concurrency.csproj.AssemblyReference.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/obj/Debug/net7.0/multithreading_concurrency.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/obj/Debug/net7.0/multithreading_concurrency.AssemblyInfoInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/obj/Debug/net7.0/multithreading_concurrency.AssemblyInfo.cs
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/obj/Debug/net7.0/multithreading_concurrency.csproj.CoreCompileInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/obj/Debug/net7.0/multithreading_concurrency.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/obj/Debug/net7.0/refint/multithreading_concurrency.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/obj/Debug/net7.0/multithreading_concurrency.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/obj/Debug/net7.0/multithreading_concurrency.genruntimeconfig.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/multithreading_concurrency/obj/Debug/net7.0/ref/multithreading_concurrency.dll

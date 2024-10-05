@@ -1,0 +1,15 @@
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/obj/Debug/net7.0/generics.csproj.AssemblyReference.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/obj/Debug/net7.0/generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/obj/Debug/net7.0/generics.AssemblyInfoInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/obj/Debug/net7.0/generics.AssemblyInfo.cs
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/obj/Debug/net7.0/generics.csproj.CoreCompileInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/bin/Debug/net7.0/generics
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/bin/Debug/net7.0/generics.deps.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/bin/Debug/net7.0/generics.runtimeconfig.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/bin/Debug/net7.0/generics.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/bin/Debug/net7.0/generics.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/obj/Debug/net7.0/generics.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/obj/Debug/net7.0/refint/generics.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/obj/Debug/net7.0/generics.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/obj/Debug/net7.0/generics.genruntimeconfig.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/generics/obj/Debug/net7.0/ref/generics.dll
