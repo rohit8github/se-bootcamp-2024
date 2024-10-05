@@ -1,0 +1,15 @@
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/bin/Debug/net7.0/ConsoleAppDebug
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/bin/Debug/net7.0/ConsoleAppDebug.deps.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/bin/Debug/net7.0/ConsoleAppDebug.runtimeconfig.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/bin/Debug/net7.0/ConsoleAppDebug.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/bin/Debug/net7.0/ConsoleAppDebug.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/obj/Debug/net7.0/ConsoleAppDebug.csproj.AssemblyReference.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/obj/Debug/net7.0/ConsoleAppDebug.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/obj/Debug/net7.0/ConsoleAppDebug.AssemblyInfoInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/obj/Debug/net7.0/ConsoleAppDebug.AssemblyInfo.cs
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/obj/Debug/net7.0/ConsoleAppDebug.csproj.CoreCompileInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/obj/Debug/net7.0/ConsoleAppDebug.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/obj/Debug/net7.0/refint/ConsoleAppDebug.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/obj/Debug/net7.0/ConsoleAppDebug.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/obj/Debug/net7.0/ConsoleAppDebug.genruntimeconfig.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/06-Fundamentals/ConsoleAppDebug/ConsoleAppDebug/obj/Debug/net7.0/ref/ConsoleAppDebug.dll

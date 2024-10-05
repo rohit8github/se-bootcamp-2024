@@ -1,0 +1,15 @@
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/bin/Debug/net7.0/05-Fundamentals
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/bin/Debug/net7.0/05-Fundamentals.deps.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/bin/Debug/net7.0/05-Fundamentals.runtimeconfig.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/bin/Debug/net7.0/05-Fundamentals.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/bin/Debug/net7.0/05-Fundamentals.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/obj/Debug/net7.0/05-Fundamentals.csproj.AssemblyReference.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/obj/Debug/net7.0/05-Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/obj/Debug/net7.0/05-Fundamentals.AssemblyInfoInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/obj/Debug/net7.0/05-Fundamentals.AssemblyInfo.cs
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/obj/Debug/net7.0/05-Fundamentals.csproj.CoreCompileInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/obj/Debug/net7.0/05-Fundamentals.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/obj/Debug/net7.0/refint/05-Fundamentals.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/obj/Debug/net7.0/05-Fundamentals.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/obj/Debug/net7.0/05-Fundamentals.genruntimeconfig.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/fundamentals/05-Fundamentals/obj/Debug/net7.0/ref/05-Fundamentals.dll

@@ -1,0 +1,15 @@
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/bin/Debug/net7.0/memorymanagement
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/bin/Debug/net7.0/memorymanagement.deps.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/bin/Debug/net7.0/memorymanagement.runtimeconfig.json
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/bin/Debug/net7.0/memorymanagement.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/bin/Debug/net7.0/memorymanagement.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/obj/Debug/net7.0/memorymanagement.csproj.AssemblyReference.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/obj/Debug/net7.0/memorymanagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/obj/Debug/net7.0/memorymanagement.AssemblyInfoInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/obj/Debug/net7.0/memorymanagement.AssemblyInfo.cs
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/obj/Debug/net7.0/memorymanagement.csproj.CoreCompileInputs.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/obj/Debug/net7.0/memorymanagement.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/obj/Debug/net7.0/refint/memorymanagement.dll
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/obj/Debug/net7.0/memorymanagement.pdb
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/obj/Debug/net7.0/memorymanagement.genruntimeconfig.cache
+/Users/Rohit.Srivastava2/Documents/GitHub/sebootcamp-test/memorymanagement/obj/Debug/net7.0/ref/memorymanagement.dll
